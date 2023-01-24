@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Nozit All In One Status Saver</string>
+    <string name="tag_line">Welcome to Nozit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="share_txt">Hey view/download this image</string>
+    <string name="share_image_via">Share File via...</string>
+    <string name="share_app_message">Download All Videos using this app. Download Now</string>
+
+
+    <!--AdMob Id-->
+    <string name="admob_app_id">ca-app-pub-3873678920964821~9919419757</string>
+    <string name="admob_banner_ad">ca-app-pub-3873678920964821/6264914076</string>
+    <string name="admob_interstitial_ad">ca-app-pub-3873678920964821/5578518367</string>
+    <string name="admob_rewareded_ad" translatable="false">ca-app-pub-3873678920964821/8431363676</string>
+
+
+    <string name="fb_placement_id">2272478742933516</string>
+    <string name="fb_placement_interstitial_id">2272478742933516_2272481782933212</string>
+
+
+    <string name="about_content">Version: 1.0\nDeveloped by:-\ncodingdunia2019@gmail.com</string>
+    <string name="aboutInfo">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="insta_app_name">Instagram</string>
+    <string name="insta_tag"><![CDATA[Download Instagram Images & Videos]]></string>
+    <string name="whatsapp_app_name">WA &amp; WA Business</string>
+    <string name="whatsapp_tag"><![CDATA[Save Whatsapp Status Image & Videos]]></string>
+    <string name="tiktok_app_name">TikTok</string>
+    <string name="tiktok_tag">Download TikTok Videos</string>
+    <string name="likee_app_name">Likee</string>
+    <string name="likee_tag">Download Likee Videos</string>
+
+    <string name="facebook_app_name">Facebook</string>
+    <string name="fcebook_tag">Download Facebook Videos</string>
+    <string name="twitter_app_name">Twitter</string>
+    <string name="twitter_tag"><![CDATA[Download Twitter Images & Videos]]></string>
+    <string name="gallery_name">Gallery</string>
+    <string name="gallery_tag">View All Your Downloaded Media</string>
+    <string name="aboutus_name">About Us</string>
+    <string name="aboutus_tag">Know More About App</string>
+    <string name="share_app_name">Share App</string>
+    <string name="share_app_tag">Share App with Your Friends</string>
+    <string name="rate_app_name">Rate App</string>
+    <string name="rate_tag">Show Some Love. Rate on Play Store</string>
+    <string name="more_app_name">More App</string>
+    <string name="more_app_tag">View Our Other Creations</string>
+
+    <!--About Page-->
+    <string name="version_name">Version</string>
+    <string name="version_tag">1.0.0</string>
+    <string name="company_name_title">Develope</string>
+    <string name="company_tag_name">Develope by S.S.</string>
+    <string name="email_title">Email</string>
+    <string name="email_tag">nozitapp@gmail.com</string>
+    <string name="website_title">Website</string>
+    <string name="website_tag">.....</string>
+    <string name="contact_title">Contact</string>
+    <string name="contact_tag">+91-9621232484</string>
+    <string name="privacy_title">Privacy Policy</string>
+    <string name="privacy_tag">Click to Read Privacy Policy</string>
+    <string name="about_title">About</string>
+    <string name="second_how_too">2. Share with All in One Status Saver</string>
+    <string name="fourth_how_too">2. Open All in One Status Saver</string>
+
+    <string name="view_stories">View Stories and Download from Private Account</string>
+    <string name="login">Login</string>
+    <string name="stories">Stories</string>
+
+    <string name="sharechat_app_name">ShareChat</string>
+    <string name="sharechat_tag">Download ShareChat Videos</string>
+    <string name="open_sharechat">1. Open ShareChat</string>
+    <string name="cop_link_from_sharechat">1. Copy Video Link from ShareChat</string>
+
+    <string name="roposo_app_name">Roposo</string>
+    <string name="roposo_tag">Download Roposo Videos</string>
+    <string name="open_roposo">1. Open Roposo</string>
+    <string name="cop_link_from_roposo">1. Copy Video Link from Roposo</string>
+
+    <string name="snack_app_name">Snack Video</string>
+    <string name="snack_tag">Download SnackVideo Videos</string>
+    <string name="open_snack">1. Open Snack Video</string>
+    <string name="cop_link_from_snack">1. Copy Video Link from SnackVideo</string>
+    <string name="no_media_on_snackvideo">Some error occured</string>
+    <string name="how_to_download">How to Download</string>
+    <string name="enter_url">Enter Url</string>
+    <string name="enter_valid_url">Enter Valid Url</string>
+    <string name="no_net_conn">No Internet Connection</string>
+
+    <string name="josh_app_name">Josh</string>
+    <string name="open_josh">1. Open Josh</string>
+    <string name="cop_link_from_josh">1. Copy Video Link from Josh</string>
+    <string name="josh_tag">Download Josh Videos</string>
+
+    <string name="chingari_app_name">Chingari</string>
+    <string name="open_chingari">1. Open Chingari</string>
+    <string name="cop_link_from_chingari">1. Copy Video Link from Chingari</string>
+    <string name="chingari_tag">Download Chingari Videos</string>
+
+    <string name="mitron_app_name">Mitron</string>
+    <string name="open_mitron">1. Open Mitron</string>
+    <string name="cop_link_from_mitron">1. Copy Video Link from Mitron</string>
+    <string name="mitron_tag">Download Mitron Videos</string>
+
+
+    <string name="mxtakatak_app_name" translatable="false">MX TakaTak</string>
+    <string name="open_mx">1. Open MXTakaTak</string>
+    <string name="mx_tag">Download MXTakaTak Videos</string>
+    <string name="cop_link_from_mx">1. Copy Video Link from MXTakaTak</string>
+    <string name="moj_app_name" translatable="false">Moj</string>
+    <string name="open_moj">1. Open Moj</string>
+    <string name="moj_tag">Download Moj Videos</string>
+    <string name="cop_link_from_moj">1. Copy Video Link from Moj</string>
+
+    <string name="opn_fb">1. Open Facebook</string>
+    <string name="copy_video_link_frm_fb">1. Copy Video Link from Facebook</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="do_u_want_to_download_media_from_pvt">Don\'t Want to Download Media from Private Account?</string>
+    <string name="download_stories">Download from Stories</string>
+
+
+    <string name="app_not_available">App Not Available.</string>
+    <string name="games">Games</string>
+    <string name="games_tag">Play Games</string>
+</resources>

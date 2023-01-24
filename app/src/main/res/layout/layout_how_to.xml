@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/LLHowToLayout"
+    android:layout_margin="10dp"
+    android:elevation="3dp"
+    android:background="@drawable/et_back"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="15dp"
+        android:text="How to Download"
+        android:textColor="@color/black"
+        android:id="@+id/tvHowToHeadOne"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/LLHowToOne"
+        android:background="@drawable/et_back"
+        android:elevation="3dp"
+        android:layout_margin="10dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="1. Open TikTok"
+        android:id="@+id/tvHowTo1"
+        android:layout_marginStart="2dp"
+        android:layout_marginEnd="2dp"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:id="@+id/im_howto1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/second_how_too"
+        android:id="@+id/tvHowTo2"
+        android:layout_marginStart="2dp"
+        android:layout_marginEnd="2dp"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:id="@+id/im_howto2"
+        />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/tvHowToHeadTwo"
+        android:text="or Download using copied link"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/et_back"
+        android:elevation="3dp"
+        android:layout_margin="10dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginEnd="2dp"
+        android:textAlignment="center"
+        android:text="1. Open TikTok"
+        android:id="@+id/tvHowTo3"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:id="@+id/im_howto3" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/fourth_how_too"
+        android:id="@+id/tvHowTo4"
+        android:layout_marginStart="2dp"
+        android:layout_marginEnd="2dp"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:id="@+id/im_howto4" />
+    </LinearLayout>
+</LinearLayout>
+
+</layout>

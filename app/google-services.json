@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1095395353977",
+    "project_id": "nozit-24d80",
+    "storage_bucket": "nozit-24d80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095395353977:android:bbdb441a026227d724bba8",
+        "android_client_info": {
+          "package_name": "com.cd.statussaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095395353977-05e4c39erlcbtfog9a2dq16aa6cc3dlp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cd.statussaver",
+            "certificate_hash": "852f590323ad3060c2e0b02e7ad1baf1d4cc8681"
+          }
+        },
+        {
+          "client_id": "1095395353977-t0ksk0a5c868fis63ps4s3juaifkebe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3qxbzLK69J-mSKf6r11C4v9Zw_0j6kaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095395353977-t0ksk0a5c868fis63ps4s3juaifkebe4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
